@@ -13,7 +13,6 @@ function App() {
    <Country/>
    <About/>
    <Service/>
-  
     </>
   )
 }
