@@ -16,7 +16,7 @@ const Service = () => {
         </div>
         <div className="lg:w-1/2">
           <div
-            className='bg-[url(../../../public/service_img01.png)] h-[410px] bg-no-repeat bg-center bg-cover  relative z-[1] after:absolute after:left-0 after:top-0 after:content-[""] after:h-[100%] after:w-full after:bg-[rgba(27,26,26,0.5)] after:z-[-1]'
+            className='bg-[url(/service_img01.png)] h-[410px] bg-no-repeat bg-center bg-cover  relative z-[1] after:absolute after:left-0 after:top-0 after:content-[""] after:h-[100%] after:w-full after:bg-[rgba(27,26,26,0.5)] after:z-[-1]'
           >
             <h3 className="text-white font-bold font-pops text-[18px] lg:text-4xl pt-[147px] pl-[116px]">
               Modern natural oil and gas refineries.
@@ -35,7 +35,7 @@ const Service = () => {
       <div className="lg:flex">
         <div className="lg:w-1/2 mt-3 lg:mt-0">
           <div
-            className='bg-[url(../../../public/service_img02.png)] h-[410px] bg-no-repeat bg-center bg-cover  relative z-[1] after:absolute after:left-0 after:top-0 after:content-[""] after:h-[100%] after:w-full after:bg-[rgba(27,26,26,0.5)] after:z-[-1]'
+            className='bg-[url(/service_img02.png)] h-[410px] bg-no-repeat bg-center bg-cover  relative z-[1] after:absolute after:left-0 after:top-0 after:content-[""] after:h-[100%] after:w-full after:bg-[rgba(27,26,26,0.5)] after:z-[-1]'
           >
             <h3 className="text-white font-bold font-pops text-[18px] lg:text-4xl pt-[147px] pl-[116px]">
               Modern natural oil and gas refineries.
@@ -52,7 +52,7 @@ const Service = () => {
         </div>
         <div className="lg:w-1/2 mt-3 lg:mt-0">
           <div
-            className='bg-[url(../../../public/service_img03.png)] h-[410px] bg-no-repeat bg-center bg-cover  relative z-[1] after:absolute after:left-0 after:top-0 after:content-[""] after:h-[100%] after:w-full after:bg-[rgba(27,26,26,0.5)] after:z-[-1]'
+            className='bg-[url(/service_img03.png)] h-[410px] bg-no-repeat bg-center bg-cover  relative z-[1] after:absolute after:left-0 after:top-0 after:content-[""] after:h-[100%] after:w-full after:bg-[rgba(27,26,26,0.5)] after:z-[-1]'
           >
             <h3 className="text-white font-bold font-pops text-[18px] lg:text-4xl pt-[147px] pl-[116px]">
               Modern natural oil and gas refineries.
